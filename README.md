@@ -24,10 +24,7 @@ a CLI payroll report generator built in C
 
                               Welcome to Payola: A Payroll Reporting Application
 
-                                             Developed by CHEYNOLDS
-                                              Coded by CHEYNOLDS
-
-                                                     🫠
+                                                    🫠
 
                                                Version 0.0.5
 
